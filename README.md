@@ -1,85 +1,31 @@
-# Certificate Inventory
+# PhD Preparation: Computational Neuroscience & Neuroengineering
 
-This repository houses verified credentials supporting my transition from Clinical Medicine to Computational Neuroscience.
+**Medical Doctor | CAP Trainee (Edinburgh) | Aspiring Neuroengineering PhD Candidate**
 
-> **Strategy:** Certificates are organized by **competency**, not chronology. This demonstrates a structured approach to skill acquisition rather than a scattered collection of courses.
-
----
-
-## 🧮 1. Mathematics & Quantitative Foundations
-*Critical for PhD-level modelling and simulation.*
-
-| Certificate | Institution | Date | Key Competencies |
-| :--- | :--- | :--- | :--- |
-| **Linear Algebra** | MIT OCW (Self-Study) | 2026 | Eigenvalues, SVD, Least Squares |
-| **Pre-Calculus** | Delft University of Technology (edX) | 2025 | Differentiation, Integration |
-| **Probability & Statistics** | (Pending) | 2027 | Bayesian Inference, Distributions |
-
-*(Certificates for completed modules stored in `/01_mathematics/`)*
+This repository tracks my structured transition from clinical medicine to computational neuroscience. It contains my strategic roadmap, research statement, learning journey, progress tracker, and supplementary materials.
 
 ---
 
-## 💻 2. Computational & Data Science Skills
-*Tools for implementing models and analyzing data.*
+## 📂 Navigate This Repo
 
-| Certificate | Institution | Date | Key Competencies |
-| :--- | :--- | :--- | :--- |
-| **Data Scientist with Python** | DataCamp | 2026 | Pandas, Scikit-learn, Supervised Learning |
-| **Fundamentals of ML in Healthcare** | Stanford (Coursera) | 2025 | Model evaluation, Bias/Variance, Pitfalls |
-| **Intro to Python** | U Michigan (Coursera) | 2025 | Syntax, Data Structures, Algorithms |
-
-*(Certificates stored in `/02_computational_skills/`)*
-
----
-
-## 🏥 3. Clinical Research & Quality Improvement
-*Evidence of real-world research experience and NHS/ICRC domain expertise.*
-
-| Certificate | Institution | Date | Key Competencies |
-| :--- | :--- | :--- | :--- |
-| **Scottish Improvement Foundation Skills** | NHS Scotland | 2025 | QI Methodology, Intervention Design |
-| **Good Clinical Practice (GCP)** | NIHR | 2025 | Ethics, Patient Safety, Regulatory |
-| **Public Involvement in Research** | Imperial College | 2025 | Patient Engagement Strategies |
-| **PLAB Part 1 & 2** | GMC UK | 2024 | Clinical Licensing |
-
-*(Certificates stored in `/03_clinical_research/`)*
+| Document | Purpose |
+| :--- | :--- |
+| **[Roadmap](./roadmap.md)** | The full 4-year plan (2026–2030) with weekly breakdowns |
+| **[Research Statement](./research-statement-why-computational-neuroscience.md)** | Why computational neuroscience? The narrative behind the pivot |
+| **[Learning Journey](./learning_journey.md)** | Background, strategy, and workstream structure |
+| **[Progress Tracker](./progress-tracker.md)** | Live weekly log of what I'm studying |
+| **[Weekly Reflections](./weekly-reflections/)** | Ad-hoc notes on insights and challenges |
+| **[Supplementary Reading](./supplementary-reading/)** | Papers, lectures, and tangential materials |
 
 ---
 
-## 🌍 4. Healthcare Innovation & Systems Thinking
-*Contextual understanding of implementation challenges.*
+## 🔗 Companion Repositories
 
-| Certificate | Institution | Date | Key Competencies |
-| :--- | :--- | :--- | :--- |
-| **Digital Health Specialization** | Imperial College London | 2025 | Implementation Science, Tech Evaluation |
-| **Data Ethics & Responsible AI** | Univ. of Edinburgh | 2025 | AI Governance, Ethical Frameworks |
-| **Global Health Innovation** | Imperial College | 2023 | Systems Thinking, Entrepreneurship |
-
-*(Certificates stored in `/04_healthcare_innovation/`)*
-
----
-
-## 🧠 5. Neuroscience & Cognitive Science
-*Domain knowledge bridging biology and computation.*
-
-| Certificate | Institution | Date | Key Competencies |
-| :--- | :--- | :--- | :--- |
-| **Philosophy of Cognitive Science** | Univ. of Edinburgh | 2026 | Theoretical Foundations |
-| **Neuroscience Part 1: Electrical Properties** | HarvardX | 2026 | Ion Channels, Action Potentials |
-| **Essentials of Child & Adolescent Psychiatry** | Paris-Saclay | 2025 | Developmental Psychopathology |
-
-*(Certificates stored in `/05_neuroscience/`)*
-
----
-
-## 📂 File Naming Convention
-To ensure clarity and searchability, all PDF files follow this naming convention:
-`YYYY-Institution_CourseName_Version.pdf`
-
-**Examples:**
-- `2025-Imperial_DigitalHealthSpecialization_v1.pdf`
-- `2026-MITOCW_LinearAlgebra_SelfStudy.pdf`
-- `2025-NHS_Scotland_SIFS_Programme.pdf`
+| Repo | Contents |
+| :--- | :--- |
+| **[Research & QI Portfolio](https://github.com/melaniagr/research-and-QI-portfolio)** | Published research, national presentations, QI leadership, ICRC case study |
+| **[Certificates](https://github.com/melaniagr/certificates)** | Categorized inventory of completed credentials |
+| **[Neurocomputing Portfolio](https://github.com/melaniagr/neurocomputing-portfolio)** | *(Coming Soon)* Code projects, ML models, and computational notebooks |
 
 ---
 
