@@ -1,15 +1,15 @@
-# Certificate Inventory
+# Credentials and Self-Study Evidence
 
 **Medical Doctor | Aspiring Neuroengineering PhD Candidate**  
 *Organized by Competency, not Chronology*
 
 ---
 
-## 🧮 1. Mathematics & Quantitative Foundations
-| Certificate | Institution | Year | Key Competencies |
-| :--- | :--- | :--- | :--- |
-| **Pre-Calculus** | Delft University of Technology (edX) | 2025 | Differentiation, Integration |
-| **Linear Algebra** | MIT OCW (Self-Study) | 2026 | Eigenvalues, SVD, Least Squares |
+## 🧮 1. Mathematics & Quantitative Foundations - Self-Study Evidence
+
+| Study | Provider | Year | Evidence |
+|---|---|---:|---|
+| Linear Algebra 18.06 | MIT OpenCourseWare | 2026 | Ongoing - [Study record](../phd-prep/tree/main/mathematics/mit-18.06-linear-algebra) |
 
 *(Stored in `/01_mathematics/`)*
 
@@ -18,7 +18,6 @@
 ## 💻 2. Computational & Data Science
 | Certificate | Institution | Year | Key Competencies |
 | :--- | :--- | :--- | :--- |
-| **Data Scientist with Python** | DataCamp | 2026 | Pandas, Scikit-learn, Supervised/Unsupervised Learning |
 | **Fundamentals of ML in Healthcare** | Stanford (Coursera) | 2025 | Model Evaluation, Bias/Variance |
 | **Intro to Python** | U Michigan (Coursera) | 2025 | Syntax, Data Structures, Algorithms |
 
