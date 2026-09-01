@@ -1,6 +1,6 @@
-# Credentials and Self-Study Evidence
+# credentials and self-study evidence
 
-**Medical Doctor | Aspiring Neuroengineering PhD Candidate**  
+**medical doctor | aspiring neuroengineering PhD candidate**  
 *Organized by Competency, not Chronology*
 
 ---
